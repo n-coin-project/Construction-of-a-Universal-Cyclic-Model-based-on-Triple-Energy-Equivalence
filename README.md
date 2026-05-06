@@ -34,6 +34,7 @@ The universe is not expanding due to an unknown external force. Instead, it auto
 
 ## 📁 Repository Structure
 
+* [PDF Version: The Full Paper](doc/Triple_Energy_Equivalence_Model.pdf) - The full text of the paper in PDF format.
 
 ## 🤝 Contributing & Discussion
 
