@@ -34,6 +34,12 @@ The universe is not expanding due to an unknown external force. Instead, it auto
 
 ## 📁 Repository Structure
 
+```
+/doc/
+  ├── TEEM_Main_Paper.pdf
+  └── TEEM_Supplementary_Notes.pdf
+```
+
 ## 📄 Documents
 
 - [**TEEM Main Paper (PDF)**](doc/TEEM_Main_Paper.pdf)  
